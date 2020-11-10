@@ -1,0 +1,47 @@
+abstraction in Python is the process of hiding the real implementation of an application
+from the user and emphasizing only on usage of it. For example,
+consider you have bought a new electronic gadget. Along with the gadget,
+you get a user guide, instructing how to use the application,
+but this user guide has no info regarding the internal working of the gadget.
+
+Another example is, when you use TV remote,
+you do not know how pressing a key in the remote changes the
+channel internally on the TV. You just know that
+pressing + volume key will increase the volume.
+
+
+
+1) What is Abstraction in Python?
+
+Abstraction in Python is the process of hiding the real implementation
+of an application from the user and emphasizing only on how to use the application.
+
+
+
+2) How can we achieve Abstraction in Python?
+
+In Python, abstraction can be achieved using abstract classes and methods.
+
+
+
+3) Whether an abstract class can be instantiated?
+
+No, the abstract class cannot be instantiated, i.e.,
+ we cannot create objects for the abstract class.
+
+
+
+4) Mention the name of the module to be imported for an abstract class
+
+‘abc’ is the module to be imported when we define an abstract
+ class in Python programs. ‘abc’ stands for ‘abstract base class’.
+5. Why Do We Need Abstraction?
+Through the process of abstraction in Python, a programmer can hide all the
+irrelevant data/process of an application in order to reduce
+complexity and increase efficiency.
+
+
+Below mentioned points have to be noted while defining an abstract class in Python programs.
+
+1.An abstract class can have both a normal method and an abstract method
+2. An abstract class cannot be instantiated, ie., we cannot create objects for the abstract class

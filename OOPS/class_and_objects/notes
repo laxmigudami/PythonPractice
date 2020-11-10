@@ -1,0 +1,35 @@
+Under the concept of OOPs, class and object are the important components that are used to implement the rest of the OOPs concepts.
+So in this article, let us explore more about classes and objects in Python.
+
+For example, in the real world, there can be thousands of cars in use.
+ All cars will have four wheels, an engine, steering, etc. Since each car was built from the same set of blueprints,
+they contain the same components. In object-oriented terms, we say the car as an object and blueprint of the car as a class.
+
+Objects in Python:
+Objects are real-world entities. Each and every object will have certain attributes (properties) and behaviors (actions).
+For example, color, length, width of a car are attributes and actions like driving, applying brakes, etc
+can be referred to as behaviors.
+
+In order to define attributes, we use variables and to define behaviors, we use methods.
+
+
+Classes in Python:
+A class is a design or a blueprint for which objects are created. Similar to how a single blueprint is used to design
+different brands of cars, a single class is used to create more than one object.
+
+Since a class acts as a blueprint to create an object, we need to create a class before creating an object.
+So, let us see how to create a class.
+#class is created by using the keyword 'class'. Below is the syntax for creating the class.
+
+Syntax
+class class_name:
+
+eg: class Car:
+#Creating Objects In Python
+
+
+An object created for a class inside the main() method is used to access variables and methods defined inside the class.
+Below is the syntax for creating the object.
+
+Syntax
+object_name = class_name()

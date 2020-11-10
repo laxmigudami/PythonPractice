@@ -1,5 +1,5 @@
-#@property decorator allows us to define properties easily without calling the property() function manually.
-#@property decorator is a built-in decorator in Python for the property() function.
+ #@property decorator allows us to define properties easily without calling the property() function manually.
+#@property decorator is aYU built-in decorator in Python for the property() function.
 
 class Person:
     def __init__(self):

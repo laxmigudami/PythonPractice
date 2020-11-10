@@ -1,12 +1,14 @@
 class Employee:
-    def __init__(self,name, sal):
-        self.name=name
-        self.sal=sal
+    def __init__(self, name, sal):
+        self.name = name
+        self.sal = sal
+
     def display(self):
         print("the name is ", self.name)
         print("the salary is ", self.sal)
 
-obj1=Employee("laxmi" ,1000)
+
+obj1 = Employee("laxmi", 1000)
 # print(obj1.name)
 # print(obj1.sal)
 # obj1.sal=10000

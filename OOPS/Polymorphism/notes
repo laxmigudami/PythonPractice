@@ -1,0 +1,27 @@
+polymorphism refers to the ability of a real-time object to represent itself in many forms.
+Consider yourself as a real-time example. When you are at college, you act as a student.
+When are at your home, you act like a child. You are a single person,
+but you represent yourself differently in different places.
+
+Similarly in the OOPs concept,
+polymorphism refers to the ability of a method to process objects differently depending on their data type or class
+
+
+1) What is Polymorphism in Python?
+
+Polymorphism in Python refers to the ability of a method to process objects differently depending on their data type or class.
+
+
+
+2) How we can achieve Polymorphism in Python programs?
+
+Polymorphism in Python programs can be achieved by defining two or more methods with the same name inside two or more classes.
+
+
+
+3) What is the advantage of using Polymorphism in Python?
+
+It provides flexibility so that any code can be extended and easily maintained over time.
+
+
+

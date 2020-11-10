@@ -6,7 +6,7 @@
 class person:
     def __init__(self):
         self.__name=''
-    def setname(self, name):
+    def setname(self, name): 
         print('setname() is called')
         self.__name=name
     def getname(self):
